@@ -24,7 +24,6 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat&logo=prisma)
 
 ---
 
