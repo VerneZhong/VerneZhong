@@ -2,14 +2,14 @@
 
 <h1 align="center">🌸 こんにちは、桜影です！</h1>
 <p align="center">
-  <em>一位在日工作的 Java 工程师，热爱编程与开源，欢迎来交流！</em>
+  <em>一位在东京工作的 Java 工程师，热爱编程与开源，欢迎来交流！</em>
 </p>
 
 ---
 
 ### 🚀 关于我
 
-- 🇯🇵 来自中国，现居日本
+- 🇯🇵 现居东京
 - 💼 主要使用 Java / Spring Boot 进行后端开发
 - 🖥️ 正在开发一个开源项目：**GitStatHub**
 - 🌱 学习中：Vue 3 / Nuxt / GraphQL / Webflux
