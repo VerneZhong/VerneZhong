@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">🌸 こんにちは、鍾です！</h1>
+<h1 align="center">🌸 こんにちは、桜影です！</h1>
 <p align="center">
   <em>一位在东京工作的 Java 工程师，热爱编程与开源，欢迎来交流！</em>
 </p>
