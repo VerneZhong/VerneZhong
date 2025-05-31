@@ -41,17 +41,3 @@
 </div>
 
 ---
-
-### 📦 我的项目 / My Projects
-
-- 🔥 [GitStatHub](https://github.com/VerneZhong/gitstathub-api)：展示 GitHub 统计信息的全栈项目（Spring Boot + Vue）
-- 📚 更多项目请访问：[VerneZhong 的 GitHub](https://github.com/VerneZhong)
-
----
-
-### 📫 联系方式 / Contact Details
-
-- 📮 Email：`verne.zhong@gmail.com`
-- 💻 GitHub：https://github.com/VerneZhong
-
----
