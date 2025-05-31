@@ -36,7 +36,8 @@
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VerneZhong&theme=tokyonight" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VerneZhong&theme=tokyonight" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VerneZhong&theme=tokyonight" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VerneZhong&theme=tokyonight" alt=""/>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aishagojo&" alt="aishagojo" /></p>
 </div>
 
 ---
