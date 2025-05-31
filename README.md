@@ -33,13 +33,11 @@
 
 ### 📊 GitHub 统计 / GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VerneZhong&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VerneZhong&layout=compact&theme=tokyonight" alt="Top Langs" />
-</p>
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VerneZhong&theme=tokyonight" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VerneZhong&theme=tokyonight" alt=""/>
+     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=VerneZhong&theme=tokyonight" alt=""/>
+</div>
 
 ---
 
