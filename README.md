@@ -12,10 +12,8 @@
 - 🇯🇵 Currently based in **Tokyo, Japan** / 现居东京  
 - 💼 Backend Developer specialized in **Java / Spring Boot**  
   主要使用 Java / Spring Boot 进行后端开发  
-- 🖥️ Building an open source project: **GitStatHub**  
-  正在开发一个开源项目：GitStatHub  
 - 🌱 Learning **Vue 3, Nuxt, GraphQL, Webflux**  
-  学习中：Vue 3 / Nuxt / GraphQL / Webflux  
+  学习中：Vue 3 / Nuxt / GraphQL
 - 💬 Feel free to reach out in **Chinese** or **Japanese**  
   欢迎用中文、日语跟我交流！
 
